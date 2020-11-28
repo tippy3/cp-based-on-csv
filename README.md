@@ -8,7 +8,9 @@
 
 `変更前のファイル名,変更後のファイル名`というCSVファイルを作る。**変更前のファイル名と変更後のファイル名は英数字のみ可。スペースを含まないようにする。**
 
-```rename.csv
+（例）rename.csv
+
+```csv
 image0001.jpg,dog.jpg
 image0002.jpg,cat.jpg
 image0003.jpg,bird.jpg
@@ -18,16 +20,16 @@ image0005.jpg,bear.jpg
 
 ExcelやGoogleスプレッドシートに以下のような表を作り、CSVとして保存するのがオススメ。**※余計な行・列は作らないこと**
 
-|  |  |
-|--|--|
-| image0001.jpg | dog.jpg |
-| image0002.jpg | cat.jpg |
-| image0003.jpg | bird.jpg |
+|               |           |
+|---------------|-----------|
+| image0001.jpg | dog.jpg   |
+| image0002.jpg | cat.jpg   |
+| image0003.jpg | bird.jpg  |
 | image0004.jpg | zebra.jpg |
-| image0005.jpg | bear.jpg |
+| image0005.jpg | bear.jpg  |
 
 ### 3. アプリを起動し、画面に従う
-CSVファイルを選択 → フォルダを選択 の順番です！
+CSVファイルを選択 → フォルダを選択 の順番です。
 
 ## 初回起動時のセキュリティ警告
 初回起動時は以下の警告が出る
@@ -44,9 +46,9 @@ CSVファイルを選択 → フォルダを選択 の順番です！
 
 ![image3](./sample/image0003.jpg)
 
-## このアプリの詳細
+## このアプリについて
 
-詳細仕様を[Qiitaへのリンク]()にて公開しています。
+技術ブログを[Qiitaへのリンク]()にて公開しています。
 
 また、このアプリをAutomatorで開くことで、処理を自由にカスタマイズすることができます。
 

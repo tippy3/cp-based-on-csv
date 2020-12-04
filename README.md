@@ -48,9 +48,9 @@ CSVファイルを選択 → フォルダを選択 の順番です。
 
 ## このアプリについて
 
-Qiitaに記事を投稿しています。
+Qiitaに詳細を投稿しています。
 
-[CSVから一括でファイル名を変更するMacアプリを作った](https://qiita.com/advent-calendar/2020/zozo_tech3)
+[CSVから一括でファイル名を変更するMacアプリを作った](https://qiita.com/tippy/items/6e7dfaefea0fbce9f3e8)
 
 また、このアプリをAutomatorで開くことで、処理を自由にカスタマイズすることができます。
 
